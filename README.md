@@ -1,0 +1,6 @@
+component
+=========
+#Usage
+
+*在页面底部引入'<script src="js/star.js"></script>'
+并在脚本中执行'starsGenerator($('.container'));'即可
