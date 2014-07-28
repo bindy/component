@@ -1,4 +1,4 @@
-component
+vas-stars
 =========
 ###Usage
 
